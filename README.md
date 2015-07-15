@@ -1,0 +1,1 @@
+This app is a link aggregator site, similar to Reddit or Hacker News, where a user can sign up, submit a link, as well as comment and vote up or down on link submissions.
